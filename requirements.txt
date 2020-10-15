@@ -1,0 +1,4 @@
+# requirements.txt
+pandas==0.25.1
+numpy==1.17.1
+scipy==1.4.1
